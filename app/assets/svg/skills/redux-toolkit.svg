@@ -1,0 +1,21 @@
+<svg width="140" height="48" viewBox="0 0 140 48" xmlns="http://www.w3.org/2000/svg" aria-labelledby="rtkTitle">
+  <title id="rtkTitle">Redux Toolkit</title>
+  <rect rx="8" width="140" height="48" fill="#7b61ff"/>
+  <g transform="translate(12,9)">
+    <!-- gear -->
+    <g transform="translate(12,12)">
+      <circle r="8" fill="#6a4fff"/>
+      <g stroke="#fff" stroke-width="1.6" stroke-linecap="round">
+        <path d="M-10 0h4" transform="rotate(0)"/>
+        <path d="M-8.7 8.7l2.8-2.8" transform="rotate(45)"/>
+        <path d="M0 10v-4" transform="rotate(90)"/>
+        <path d="M8.7 8.7l-2.8-2.8" transform="rotate(135)"/>
+        <path d="M10 0h-4" transform="rotate(180)"/>
+        <path d="M8.7 -8.7l-2.8 2.8" transform="rotate(225)"/>
+        <path d="M0 -10v4" transform="rotate(270)"/>
+        <path d="M-8.7 -8.7l2.8 2.8" transform="rotate(315)"/>
+      </g>
+    </g>
+    <text x="36" y="20" fill="#fff" font-family="Segoe UI, Roboto, Arial" font-size="14" font-weight="600">Redux Toolkit</text>
+  </g>
+</svg>

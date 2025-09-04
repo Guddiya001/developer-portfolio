@@ -1,0 +1,9 @@
+<svg width="140" height="48" viewBox="0 0 140 48" xmlns="http://www.w3.org/2000/svg" aria-labelledby="nodeTitle">
+  <title id="nodeTitle">Node JS</title>
+  <rect rx="8" width="140" height="48" fill="#3c873a"/>
+  <g transform="translate(12,8)">
+    <!-- hexagon -->
+    <polygon points="14,2 26,8 26,22 14,28 2,22 2,8" fill="#2f6f2c"/>
+    <text x="44" y="22" fill="#fff" font-family="Segoe UI, Roboto, Arial" font-size="14" font-weight="700">Node JS</text>
+  </g>
+</svg>

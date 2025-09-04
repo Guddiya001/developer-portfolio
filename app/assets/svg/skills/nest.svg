@@ -1,0 +1,10 @@
+<svg width="140" height="48" viewBox="0 0 140 48" xmlns="http://www.w3.org/2000/svg" aria-labelledby="nestTitle">
+  <title id="nestTitle">Nest JS</title>
+  <rect rx="8" width="140" height="48" fill="#e0234e"/>
+  <g transform="translate(12,8)">
+    <!-- abstract cube / N -->
+    <polygon points="8,2 28,10 28,30 8,22" fill="#c61b42"/>
+    <path d="M10 6 L24 18 L10 30" stroke="#fff" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="44" y="22" fill="#fff" font-family="Segoe UI, Roboto, Arial" font-size="14" font-weight="700">Nest JS</text>
+  </g>
+</svg>

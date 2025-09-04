@@ -1,0 +1,10 @@
+<svg width="160" height="48" viewBox="0 0 160 48" xmlns="http://www.w3.org/2000/svg" aria-labelledby="expressTitle">
+  <title id="expressTitle">Express JS</title>
+  <rect rx="8" width="160" height="48" fill="#111111"/>
+  <g transform="translate(12,9)">
+    <!-- simple wordmark style -->
+    <rect x="0" y="4" width="28" height="28" rx="4" fill="#1f1f1f"/>
+    <text x="44" y="24" fill="#fff" font-family="Segoe UI, Roboto, Arial" font-size="14" font-weight="600">express</text>
+    <text x="44" y="38" fill="#9a9a9a" font-family="Segoe UI, Roboto, Arial" font-size="10">JS</text>
+  </g>
+</svg>

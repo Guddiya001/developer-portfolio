@@ -1,0 +1,10 @@
+<svg width="140" height="48" viewBox="0 0 140 48" xmlns="http://www.w3.org/2000/svg" aria-labelledby="cypressTitle">
+  <title id="cypressTitle">Cypress</title>
+  <rect rx="8" width="140" height="48" fill="#0db39b"/>
+  <g transform="translate(12,9)">
+    <!-- stylized C wave -->
+    <path d="M10 30 C 2 30, 2 6, 10 6" transform="translate(0,-6)" stroke="#fff" stroke-width="3" fill="none" stroke-linecap="round"/>
+    <circle cx="30" cy="14" r="3" fill="#fff"/>
+    <text x="40" y="20" fill="#fff" font-family="Segoe UI, Roboto, Arial" font-size="14" font-weight="600">Cypress</text>
+  </g>
+</svg>
